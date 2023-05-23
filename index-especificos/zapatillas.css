@@ -1,0 +1,72 @@
+
+* {
+  margin: 0px;
+  padding: 0px;
+}
+
+/* nav */
+.imgNav {
+   width:30px ;
+}
+
+.navBar {
+  z-index: 1;
+}
+
+/* section producto */
+
+.containerPro {
+  padding-top: 150px;
+  padding-bottom: 150px;
+}
+
+.container-1 {
+  background-color: rgb(152, 152, 152);
+  box-shadow: 1px 1px 10px rgba(0, 0, 0, 0.666);
+  color: white ;
+}
+
+body {
+  background-color: rgb(234, 232, 232);
+}
+
+
+
+/* Fuentes */
+
+.textoPrecio {
+  color: rgb(5, 133, 56);
+  font-weight:400 ;
+}
+
+.display-6 {
+  font-size: 21px;
+}
+
+.display-5 {
+  font-size: 30px;
+}
+
+/* Imagenes */
+
+.tarjetas {
+  width: 60px;
+}
+
+
+.botonnashe {
+  margin-top: px;
+}
+
+.btn {
+  width: 100%;
+}
+
+
+
+.padding {
+  padding-left: 10px;
+}
+
+
+

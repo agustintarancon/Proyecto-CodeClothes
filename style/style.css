@@ -1,0 +1,125 @@
+
+
+/* BODY */
+
+body {
+  background-color: rgb(240, 240, 240);
+}
+
+/* NAVBAR */
+
+.imgNav {
+  width: 50px;
+  height: 53px;
+}
+
+.navBar {
+  z-index: 1;
+  backdrop-filter: blur(15px);
+  background-color: rgba(0, 0, 0, 0.741);
+}
+
+/* Carrusel */
+
+.carrusel {
+  padding-top: 130px;
+  padding-bottom: 50px;
+  background: #000;
+}
+
+/* section hombre mujer */
+
+.containerMh {
+    padding-top: 150px;
+}
+
+.cardMh{
+box-shadow: 1px 1px 7px black;
+background-color: rgb(248, 248, 248);
+}
+
+.cardMh:hover {
+transition: all 0.5s;
+transform: scale(1.1);
+}
+
+.display-6 {
+justify-content: center;
+font-size: 15px;
+text-decoration: none;
+color:rgb(73, 73, 73);
+font-weight:400;
+}
+
+/* section ropa */
+
+.containerRopa{
+  margin-top: 80px ;
+    margin-bottom:80px;
+}
+
+.cardPropia {
+  background-color: rgb(248, 248, 248);
+  border: none;
+  box-shadow: 1px 1px 10px rgba(168, 168, 168, 0.377);
+  }
+
+.cardPropia:hover {
+  transition: all 0.5s;
+  
+  box-shadow: 3px 3px 15px rgba(23, 23, 23, 0.69) ;
+}
+
+.imgPropia:hover {
+  transition: all 0.5s; 
+}
+
+.card:hover {
+  transition: all 0.5s; 
+  transform: translateY(-7px);
+}
+.card {
+  transition: all 0.5s; 
+}
+
+
+
+/* section zapatillas */
+
+.containerZapas {
+    margin-top: 80px ;
+    margin-bottom:80px;
+  }
+  
+  .display-5 {
+    font-size: 18px;
+    text-decoration: none;
+    color:rgb(47, 46, 46);
+    font-weight:400;
+  }
+  
+  .display-5:hover {
+    color: rgb(0, 0, 0);
+    font-weight:470;
+  }
+ 
+  /* FOOTER */
+
+
+  .imgFooter {
+    height: 28px;
+    width:  47px;
+    }
+
+    .card {
+      background-color: rgb(248, 248, 248);
+      border: none;
+      box-shadow: 1px 1px 10px rgba(168, 168, 168, 0.377);
+      }
+    
+    .card:hover {
+      transition: all 0.5s;
+      box-shadow: 3px 3px 15px rgba(23, 23, 23, 0.69) ;
+    }
+
+
